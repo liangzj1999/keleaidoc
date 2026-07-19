@@ -1,0 +1,160 @@
+# ====================
+# 系统文件
+# ====================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# ====================
+# 编辑器 & IDE
+# ====================
+# VS Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# JetBrains (IDEA, WebStorm, etc.)
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Vim / Neovim
+*.swp
+*.swo
+*~
+Session.vim
+.netrwhist
+
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# ====================
+# AI Agent 相关
+# ====================
+# Claude Code
+.claude/
+
+# Trae IDE
+.trae/
+.trae-cache/
+
+# OpenClaw
+.openclaw/
+.openclaw-cache/
+
+# 通用 AI 缓存
+*.ai-cache/
+*_cache/
+.cache/
+
+# ====================
+# 临时文件 & 日志
+# ====================
+*.log
+*.tmp
+*.temp
+*.bak
+*.backup
+*.old
+
+# 临时草稿文件
+draft-*.md
+temp-*.md
+tmp-*.md
+草稿*.md
+未命名*.md
+
+# 临时导出文件
+*.pdf
+*.docx
+*.epub
+*.mobi
+
+# ====================
+# 个人配置 & 敏感信息
+# ====================
+.env
+.env.local
+.env.*.local
+*.env
+config.local.*
+secrets.*
+
+# 个人笔记 & 待办
+TODO.md
+todo.md
+NOTES.md
+notes.md
+个人笔记*.md
+
+# ====================
+# 归档 & 备份文件夹
+# ====================
+backup/
+bak/
+archive/
+archives/
+old/
+_archive/
+_OLD/
+
+# ====================
+# 图片 & 媒体（按需取消注释）
+# ====================
+# *.png
+# *.jpg
+# *.jpeg
+# *.gif
+# *.svg
+# *.webp
+
+# ====================
+# 其他
+# ====================
+# 压缩包
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# 字体文件
+*.ttf
+*.otf
+*.woff
+*.woff2
+
+# 可执行文件
+*.exe
+*.bat
+# *.sh  # 取消注释如果不需要提交 shell 脚本
