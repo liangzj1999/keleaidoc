@@ -2,6 +2,9 @@
 
 这是可乐的AI分享仓库，后续会持续更新
 
+## 传送门
+ - [哆啦A梦漫画skill](./doraemon-comic-skill/)
+
 ## 🤝 贡献与交流
 
 - 欢迎 Star ⭐ 关注更新
