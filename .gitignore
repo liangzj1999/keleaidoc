@@ -58,11 +58,6 @@ tramp
 *.sublime-project
 *.sublime-workspace
 
-# ====================
-# AI Agent 相关
-# ====================
-# Claude Code
-.claude/
 
 # Trae IDE
 .trae/
