@@ -4,6 +4,7 @@
 
 ## 传送门
  - [哆啦A梦漫画skill](./doraemon-comic-skill/)
+ - [Chiikawa漫画skill](./chiikawa-comic-skill/)
 
 ## 🤝 贡献与交流
 
